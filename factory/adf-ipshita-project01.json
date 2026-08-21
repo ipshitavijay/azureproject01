@@ -1,0 +1,15 @@
+{
+	"name": "adf-ipshita-project01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89203d0a-45ad-4f6e-a0ca-965c6ff3b847",
+		"tenantId": "a4633da4-be21-4b12-a765-59ca01158892"
+	}
+}
